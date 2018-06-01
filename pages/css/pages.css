@@ -14,5 +14,12 @@ body {
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
+h3 {
+    color:palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
 
-/* Voeg jouw css hieraan toe */
+
+
+
+}
